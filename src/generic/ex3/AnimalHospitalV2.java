@@ -1,6 +1,4 @@
-package generic.test.ex2;
-
-import generic.animal.Animal;
+package generic.ex3;
 
 public class AnimalHospitalV2 <T> {
     private T animal;

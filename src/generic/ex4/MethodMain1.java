@@ -1,4 +1,4 @@
-package generic.test.ex3;
+package generic.ex4;
 
 public class MethodMain1 {
     public static void main(String[] args) {

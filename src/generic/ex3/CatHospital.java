@@ -1,4 +1,4 @@
-package generic.test.ex2;
+package generic.ex3;
 
 import generic.animal.Cat;
 
