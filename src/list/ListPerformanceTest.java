@@ -1,8 +1,5 @@
 package list;
 
-import collection.list.MyArrayList;
-import collection.list.MyLinkedList;
-import collection.list.MyList;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
